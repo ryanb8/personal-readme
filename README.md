@@ -1,5 +1,5 @@
 ## TLDR;
-- I strive to be a creator and an educator over data scientist, analyst, researcher, leader, etc.
+- I strive to be a creator and an educator over being a data scientist, analyst, researcher, leader, etc.
 - I am mathematical, introverted, and task-driven.
 - I love clarity and consensus and am happy to talk through problems, conflict, and ambiguity to achieve this. I excel at this when problems are technical in nature or ALL parties are mutually striving towards consensus and clarity. As soon as discussion becomes tense, political (in terms of office politics), or it becomes clear that resolution isn't obtainable (or worse, desired) I will wear out quickly.
 - Please be sensitive to my "flow" - I work in a deep flow and interruptions crush my productivity.
