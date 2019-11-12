@@ -1,2 +1,3 @@
 - https://github.com/idleberg/Creative-Commons-Markdown for the markdown version of the creative commons license
 - This hackernoon article for the inspiration: https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
+- https://github.com/molly/manager-README/ for inspiration of hosting on github+licensing.
