@@ -7,7 +7,7 @@
 
 ## Thanks for looking at my readme!
 
-My name is Ryan Boyer and I'm currently a Senior Data Scientist at Shipt. I'm a big believer in clarity in communication and relationships. I want my coworkers and friends to know who I am, how I function, what my faults and skills are, and how to interact with me for mutual success. 
+My name is Ryan Boyer and I'm currently a Principal Data Scientist at Shipt. I'm a big believer in clarity in communication and relationships. I want my coworkers and friends to know who I am, how I function, what my faults and skills are, and how to interact with me for mutual success. 
 
 This document aims to provide quick insight about these things. It is a living document. People grow and change over time, and I am no exception. 
 
