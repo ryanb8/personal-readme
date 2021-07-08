@@ -1,4 +1,4 @@
-## TLDR;
+## TLDR
 - I'm in Central Time (UTC-06:00 or UTC-05:00 during DST)
 - I strive to be a creator and an educator over being a data scientist, data engineer, software engineer, analyst, researcher, leader, etc.
 - I am introverted, intentional, task-driven, and value-driven.
@@ -20,7 +20,7 @@ Last updated 2021/07/08.
 
 ### How do I function?
 
-- **I'm an introvert** 
+- **I'm an introvert**.
 - I'm a **huge advocate of work-life integration**. It takes structured downtime to turn my brain off, which is essential for me to perform at my highest levels. I try to actively encourage coworkers to fight for a sustainable job and career by prioritizing their own selves. 
 - I have my life outside of work planned out days to weeks in advance - if you want me to join you for lunch or drinks, I'll probably say no if you don't tell me several days ahead of time.
 - I'm very **value driven** in my actions (or at least strive to be). Core values for me include authenticity, honesty, independence, compassion, independent thought, understanding, stewardship, follow-through, and security.
@@ -106,7 +106,7 @@ Let's not do boring small talk just because we are supposed to. I love people, a
 - I LOVE swimming in very cold water. Think glacier fed lakes or mountain streams. There's nothing quite as refreshing as warming in the sun after a cold dip - ask about fun places I've swam!
 - I'm a big fan of [Discworld](https://en.wikipedia.org/wiki/Discworld), though I can't bring myself to read the last few unread books in the series. I generally enjoy character-driven fiction books (don't tell me the past 20 owners of some magic sword), especially if they are relatively light or lighthearted. Ask me about my favorite books or make a good fantasy recommendation to me!
 - I'm working on writing as a hobby - I have lots of ideas and passion, but not a lot of energy to sit at a computer after I finish work.
-- I do a lot of home improvement projects. This includes spending copious amount of time on my lawn, building new stairs on my deck, and trying to make our yard lush with native plants. Ask me about my latest home project or what's coming up next! I can also talk about weed control and lawn maintenance for a long time.
+- I do a lot of home improvement projects. This includes spending copious amounts of time on my lawn, building new stairs on my deck, and trying to make our yard lush with native plants. Ask me about my latest home project or what's coming up next! I can also talk about weed control and lawn maintenance for a long time.
 - Effectively I make software for a living. I also like making software on the side, at least when I'm motivated to sit at a computer more.
 - I love food. I love nice food. I really love junk food. I'm happy to provide hot takes on fast food restaurants and debate who has the best fries.
 - I play video games very casually - currently playing through Halo: The Master Chief Collection.
@@ -132,7 +132,7 @@ Let's not do boring small talk just because we are supposed to. I love people, a
 - Formalized sprints don't map great to exploratory work or research work - lots of DS and DE projects require lots of exploration.
 - Defining the problem or the long term vision work don't fit well in sprint cycles.
 - Fromalized agile methodologies require EVERYONE (especially leadership) to be on the exact same wavelength. If there's a chance of leadership not embracing these ideals, then formalized methodologies will likely backfire.
-- Many companies lose sight of the agile manifesto and the "Responding to change over following a plan" tenent - in my experience the rhythms of the agile process (sprint planning, backlog grooming, daily standups, retros, etc) become the plan itself and it hinders work and masks responsibilities.
+- Many companies lose sight of the agile manifesto and the "Responding to change over following a plan" tenet - in my experience the rhythms of the agile process (sprint planning, backlog grooming, daily standups, retros, etc) become the plan itself and it hinders work and masks responsibilities.
 - I think documentation matters more than it's typically seen to matter in agile practices - documentation is essential when people and resources are shuffled and helpful at all other times. I do think quality, working software is more important than documentation which is inline with the manifesto itself.
 - Personally, I advocate for "No BS Agile". Embrace the agile manifesto, but do it intentionally. Construct rhythms that work for your team and project. Cancel and change rhythms when they don't work or aren't currently needed. Understand that software and best practices have changed tremendously in nature over the past 20 years. Understand that what works for others won't necessarily work for you. Think intentionally about what success and good working arrangements would look like for your team and pursue that over an out-of-the-box framework. Value simplicity and practicality over formality.
 - I understand that many people will disagree with me - and that's ok. I also know I could be wrong - that's ok too! Let's chat and find the common ground - there's probably a lot!
