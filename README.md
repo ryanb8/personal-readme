@@ -31,7 +31,7 @@ Last updated 2021/07/08.
   - [Small Talk Helpers](#small-talk-helpers)
     - [Family](#family)
     - [Sports and Exercise](#sports-and-exercise)
-    - [Adventures and Hobbies](#adventures-and-hobbies)
+    - [Adventures, Hobbies, Humor](#adventures-hobbies-humor)
 
 ## What should you know about me?
 
@@ -144,7 +144,7 @@ Let's not do boring small talk just because we are supposed to. I love people, a
 - Mountain Biking is a huge release. I love working hard uphill and crushing it downhill. For people in the mountain biking community, I'm not very good, but I love it and go as often as I can. Ask me about hardtails vs full suspension bikes or what type of trails I like to ride!
 - Downhill Skiing makes me *really* feel alive. It feels like mountain biking, except you can go anywhere and falling (usually) doesn't hurt as much. It's extremely freeing, drives me to deep focus and flow. However, I live in Alabama, and I maybe go skiing every other year. Ask me about places I've skied, falls I've taken, and what makes skiing so fun!
 
-#### Adventures and Hobbies
+#### Adventures, Hobbies, Humor
 - I have been to 47 of the 50 US states. (If you include the Las Vegas airport, I've been to 48 states!) Most of my travels have been outdoor oriented over city and culture oriented. Ask me about where I've been in your home state, wild animal encounters, or off-the-beaten-track gems!
 - I LOVE swimming in very cold water. Think glacier fed lakes or mountain streams. There's nothing quite as refreshing as warming in the sun after a cold dip - ask about fun places I've swam!
 - I'm a big fan of [Discworld](https://en.wikipedia.org/wiki/Discworld), though I can't bring myself to read the last few unread books in the series. I generally enjoy character-driven fantasy books (don't tell me the past 20 owners of some magic sword), especially if they are relatively light or lighthearted. Ask me about my favorite books or make a good fantasy recommendation to me!
@@ -153,3 +153,5 @@ Let's not do boring small talk just because we are supposed to. I love people, a
 - I do a lot of home improvement projects. This includes spending copious amounts of time on my lawn, building new stairs on my deck, and trying to make our yard lush with native plants. Ask me about my latest home project or what's coming up next! I can also talk about weed control, lawn maintenance, and southeastern US plants for a long time.
 - I love food. I like nice food. I really love junk food. I'm happy to provide hot takes on fast food restaurants and debate who has the best fries.
 - I play video games very casually - currently playing through Halo: The Master Chief Collection.
+- I LOVE puns.
+- My type of humor spans between witty, keen, cutting (think Discworld) to absurd and ridiculous (think [Hot Rod](https://en.wikipedia.org/wiki/Hot_Rod_(2007_film)) or Discworld). I don't like cringe-heavy comedy or insult comedy.
